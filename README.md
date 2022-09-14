@@ -1,0 +1,2 @@
+# Ansible_AutoDiscovery_Project
+Containerization Project with Ansible AutoDiscovery
